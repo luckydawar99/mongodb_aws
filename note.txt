@@ -1,0 +1,7 @@
+1)install pacakge  yarn add express mongodb --save
+2) yarn add @types/express @types/mongodb --save
+username:lucky
+password:llucky@4269 /%404269
+Databasename=ashokit_nodejs
+collection name =prducts
+url: mongodb+srv://lucky:llucky%404269@cluster0.rvkqn7t.mongodb.net/ashokit_nodejs?retryWrites=true&w=majority&appName=Cluster0
